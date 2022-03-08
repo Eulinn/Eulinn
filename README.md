@@ -1,4 +1,4 @@
-## Rainha víbora mortal 5000 do reino das sombras
+## Euler Couto
 
  <div>
   <a href="https://github.com/Eulinn">
