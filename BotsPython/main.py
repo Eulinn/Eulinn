@@ -7,8 +7,8 @@ from selenium.webdriver import Chrome
 class NotionRedacao():
     def __init__(self):
         self.ppp = webdriver.Chrome('chromedriver.exe')
-        self.emailnotion = 'eulerbarreto700@yahoo.com.br'
-        self.senhanotion = 'gintor@1'
+        self.emailnotion = ''
+        self.senhanotion = ''
         self.entNotion()
         time.sleep(3)
         lista = self.Pgredacao()
