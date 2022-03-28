@@ -16,7 +16,7 @@ class NotionRedacao():
 
     def entNotion(self):
         try:
-            self.ppp.get('https://www.notion.so/ENEM-PASSAR-UFV-ou-qlqr-facul-e238411f59eb4b8fa3b5ca3cb774d76c')
+            self.ppp.get('LINK')
         except:
             return print('Não foi possivel entrar nesse site')
         
