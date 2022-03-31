@@ -1,4 +1,4 @@
-## ⭒Euler Couto
+## Euler Couto
 
 <div align="center">
 <img width="400" height="300" src="https://64.media.tumblr.com/d6d57d46577cae75e381903a2b5435f5/tumblr_p62iqtaIr71x8dkuto1_500.gifv"  /> 
