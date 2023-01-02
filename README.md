@@ -2,7 +2,7 @@
 
 
 
- <div align="center">
+ <div align="center" style='display:inline_block'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eulinn&theme=midnight-purple&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eulinn&theme=midnight-purple&show_icons=true&layout=compact"/>
 </div>
